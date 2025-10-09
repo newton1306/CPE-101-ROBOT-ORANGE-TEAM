@@ -1,4 +1,4 @@
-# Robot Control — Movement vs Servo (Separated)
+# Robot Control — Movement & Servo
 _Last updated: 2025-10-09 16:18_
 
 This README clearly **separates Movement (wheels)** and **Servo (arm/gripper)** pipelines. It is derived from your current files:
