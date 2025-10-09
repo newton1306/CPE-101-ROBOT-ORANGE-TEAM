@@ -20,7 +20,7 @@ cd ..........................
 
 # venv
 python -m venv venv
-.env\Scripts\activate   # Windows
+.venv\Scripts\activate   # Windows
 # source venv/bin/activate  # macOS/Linux
 
 # packages
