@@ -162,5 +162,5 @@ CAL:LIFT_DOWN:<0-180>
 
 ---
 
-**Owner:** Newton  
-**Contact:** (fill in)  
+**Owner:** Orange Team ทุกคนครับ ผมรักทุกคน
+**Contact:** XXXX
