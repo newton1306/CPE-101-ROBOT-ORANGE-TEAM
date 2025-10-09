@@ -1,0 +1,13 @@
+# directory
+cd ..........................
+
+# venv
+python -m venv venv
+.\venv\Scripts\activate
+
+# package installll
+pip install --upgrade pip
+pip install opencv-python mediapipe==0.10.14 bleak
+
+# RUNNNNN
+python hand.py
