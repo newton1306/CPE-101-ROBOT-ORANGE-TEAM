@@ -162,5 +162,4 @@ CAL:LIFT_DOWN:<0-180>
 
 ---
 
-**Owner:** Orange Team ทุกคนครับ ผมรักทุกคน
-**Contact:** XXXX
+**Owner:** Orange Team
